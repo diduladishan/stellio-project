@@ -1,0 +1,18 @@
+/* Home page text centering*/
+
+.text-centering-custom {
+  text-align: center;
+}
+
+/* Home page text*/
+.h1-title-custom {
+  margin-bottom: 0 !important;
+}
+
+.subscription-margin-custom {
+  margin-bottom: 30px !important;
+}
+
+.custom-color-white {
+  color: white !important;
+}
